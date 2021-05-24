@@ -1,0 +1,9 @@
+# NODE
+node_modules
+.env
+
+# OS
+.DS_Store
+
+# IDE
+.idea
